@@ -1,0 +1,35 @@
+{
+  "package": "vhs",
+  "upstream_repo": "charmbracelet/vhs",
+  "version": "v0.11.0",
+  "tag": "v0.11.0",
+  "published_at": "2026-03-10T18:39:47Z",
+  "license": "MIT",
+  "asset": "vhs_0.11.0_Linux_arm.tar.gz",
+  "asset_size": 8867668,
+  "sha256": "3a7d3cc39d91d5e8add553502b59d3bc5e9a2a56a79a76ee6fe0fdff8962016b",
+  "expected_sha256": "3a7d3cc39d91d5e8add553502b59d3bc5e9a2a56a79a76ee6fe0fdff8962016b",
+  "checksum_source": "checksums.txt",
+  "checksum_verified": true,
+  "assets": {
+    "vhs_0.11.0_Linux_x86_64.tar.gz": {
+      "sha256": "99cb634587eaae0473c1ea377db80c3a048c27f99fe0a7febb1a1e8cb7ee5009",
+      "size": 9194469
+    },
+    "vhs_0.11.0_Linux_i386.tar.gz": {
+      "sha256": "7978d00a796fe3e9e1b58af407b3782e91ed0b6ff7b44e094f1f95d0e392cf5d",
+      "size": 8857452
+    },
+    "vhs_0.11.0_Linux_arm64.tar.gz": {
+      "sha256": "af782cddbf844a377df6ea41c0e72339393fa021be3f6cb70a2f47d48675d92b",
+      "size": 8581586
+    },
+    "vhs_0.11.0_Linux_arm.tar.gz": {
+      "sha256": "3a7d3cc39d91d5e8add553502b59d3bc5e9a2a56a79a76ee6fe0fdff8962016b",
+      "size": 8867668
+    }
+  },
+  "asset_count": 4,
+  "vetted_at": "2026-08-19T15:19:23Z",
+  "vetted_by": ""
+}

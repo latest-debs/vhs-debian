@@ -1,0 +1,9 @@
+# Package definition for vhs
+
+package_name: vhs
+github_repo: charmbracelet/vhs
+artifact_format: tar.gz
+description: "Writes terminal GIFs as code, scripting recordings of terminal sessions for docs and demos."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.
